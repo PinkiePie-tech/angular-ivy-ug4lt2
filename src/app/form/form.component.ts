@@ -25,8 +25,8 @@ export class FormComponent {
     } else if (!this.value) {
       this.error = 'Wep faut rentrer une valeur ...';
       this.valid = false;
-    } else if (this.value >= 0) {
-      this.error = 'Faut être un peut plus positif';
+    } else if (this.value < 0) {
+      this.error = 'Faut être un peu plus positif';
       this.valid = false;
     }
   }

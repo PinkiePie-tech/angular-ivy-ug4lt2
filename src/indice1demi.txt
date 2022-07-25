@@ -1,0 +1,3 @@
+Peut être ça alors
+
+https://angular.io/api/forms/Validators
