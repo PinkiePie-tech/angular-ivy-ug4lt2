@@ -1,0 +1,16 @@
+<div>
+  <input
+    placeholder="{{ placeholder }}"
+    type="text"
+    [(ngModel)]="value"
+    (ngModelChange)="onUpdate()"
+    [ngModelOptions]="{ updateOn: 'change' }"
+  />
+  <button type="submit" (click)="onSubmit()">Tester</button>
+</div>
+<div class="error">
+  <span *ngIf="error">{{ error }}</span>
+</div>
+<div class="victory">
+  <span *ngIf="result">{{ result }}</span>
+</div>
