@@ -1,1 +1,4 @@
-Les observables c'est la vie !!!! rxjs te veut du bien
+Les observables c'est la vie !!!! rxjs te veut du bien, il a plein d'operator
+
+Regarde par exemple debounceTime
+https://rxjs.dev/api/index/function/debounceTime

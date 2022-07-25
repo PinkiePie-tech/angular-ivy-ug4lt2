@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FormControl, ValidationErrors } from '@angular/forms';
 
 /**
  * Le but de cette exercice est d'améliorer un chouilla le fonctionnement, on est sur une méthode de fonctionnement assez ancienne et Angular est un monde merveilleux plein d'évolution, votre but sera donc d'améliorer ce code de merde fait par mes soins ( et oui j'ai pris plaisir à écrire un code de ce genre :D)
