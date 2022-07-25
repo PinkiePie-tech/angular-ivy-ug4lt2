@@ -1,0 +1,1 @@
+Dans Angular, il n'y a pas que typeScript, tu peux aussi contraindre via HTML

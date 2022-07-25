@@ -1,5 +1,10 @@
 import { Component } from '@angular/core';
 
+/**
+ * Le but de cette exercice est d'améliorer un chouilla le fonctionnement, on est sur une méthode de fonctionnement assez ancienne et Angular est un monde merveilleux plein d'évolution, votre but sera donc d'améliorer ce code de merde fait par mes soins ( et oui j'ai pris plaisir à écrire un code de ce genre :D)
+ * J'ai rajouté volontairement des indices pour ceux qui n'ont pas vraiment l'idée de quoi faire, vous n'êtes pas obligé de les consulter
+ */
+
 @Component({
   selector: 'sip-form',
   templateUrl: 'form.component.html',
