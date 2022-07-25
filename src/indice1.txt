@@ -1,3 +1,7 @@
 https://angular.io/api/forms/FormControl
 
 Pas besoin d'en dire plus
+
+Peut être ça alors
+
+https://angular.io/api/forms/Validators
