@@ -1,1 +1,1 @@
-Formcontrol possède tout ce qui es nécessaire pour pouvoir valider et checker une valeur ^^, n'oubliez pas qu'un humain tape du texte avec une certaine rapidité ^^ pas forcément besoin de check souvent
+Formcontrol possède tout ce qui es nécessaire pour pouvoir valider et checker une valeur ^^

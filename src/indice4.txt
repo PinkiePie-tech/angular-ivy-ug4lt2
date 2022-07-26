@@ -1,4 +1,3 @@
-Les observables c'est la vie !!!! rxjs te veut du bien, il a plein d'operator
+Peut être ça alors
 
-Regarde par exemple debounceTime
-https://rxjs.dev/api/index/function/debounceTime
+https://angular.io/api/forms/Validators
